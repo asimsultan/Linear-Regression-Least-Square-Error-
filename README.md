@@ -1,1 +1,4 @@
 # Linear-Regression-Least-Square-Error
+
+
+The following notebook makes one go through the complete inside steps of how does the Linear Regression models work.
